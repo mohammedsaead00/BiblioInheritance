@@ -1,0 +1,15 @@
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\bin\Debug\net9.0\BiblioInheritance.exe
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\bin\Debug\net9.0\BiblioInheritance.deps.json
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\bin\Debug\net9.0\BiblioInheritance.runtimeconfig.json
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\bin\Debug\net9.0\BiblioInheritance.dll
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\bin\Debug\net9.0\BiblioInheritance.pdb
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.AssemblyInfoInputs.cache
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.AssemblyInfo.cs
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.csproj.CoreCompileInputs.cache
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.sourcelink.json
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.dll
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\refint\BiblioInheritance.dll
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.pdb
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\BiblioInheritance.genruntimeconfig.cache
+D:\c sharp\projects\BiblioInheritance\BiblioInheritance\obj\Debug\net9.0\ref\BiblioInheritance.dll
